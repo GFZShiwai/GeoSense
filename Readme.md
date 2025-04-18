@@ -5,13 +5,13 @@
   <img src="image/title.jpg" width="800px"/>
 </p>
 <p align="center">
-   🌐 <a href="https://gfzshiwai.github.io/GeoSense_Project/" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/OpenStellarTeam/Chinese-SimpleVQA" target="_blank">Hugging Face</a> • ⏬ <a href="#data" target="_blank">Data</a> •   📃 <a href="https://arxiv.org/pdf/2502.11718" target="_blank">Paper</a><br>
+   🌐 <a href="" target="_blank">Website</a> • 🤗 <a href="" target="_blank">Hugging Face</a> • ⏬ <a href="#data" target="_blank">Data</a> •   📃 <a href="https://arxiv.org/pdf/2502.11718" target="_blank">Paper</a><br>
 </p> 
 
 
 
 **GeoSense** is the first comprehensive bilingual benchmark designed to systematically evaluate the geometric reasoning abilities of MLLMs through the lens of **geometric principles**. GeoSense features a **five-level hierarchical** framework of geometric principles spanning plane and solid geometry, an **intricately annotated dataset** of 1,789 problems, and an **innovative evaluation strategy**. 
-Please visit our [website](https://gfzshiwai.github.io/GeoSense_Project/) or check our [paper](https://arxiv.org/pdf/2502.11718) for more details. 
+Please visit our [website]() or check our [paper]() for more details. 
 
 > This is the evaluation repository for GeoSense, and it follows the MIT License.
 
